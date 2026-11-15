@@ -1,0 +1,15 @@
+# Private customer data
+data/raw/*
+data/processed/*
+!data/raw/README.md
+!data/processed/README.md
+
+# Jupyter files
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python files
+__pycache__/
+*.pyc
+.env
+venv/
