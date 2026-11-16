@@ -12,6 +12,6 @@
 |---|---|---|---|---|
 |  |  |  |  |  |
 
-- **Risks/blockers:**
+- **Risks/Blockers:**
 - **Next meeting:**
 - **Minutes recorded by:**
